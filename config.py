@@ -11,7 +11,7 @@ PROTECTED_ADMIN_IDS = [8511828394, 6064716702, 7831629041]
 # 3) Default OTP Group Chat ID — সব OTP message এখানে যাবে
 DEFAULT_GROUP_CHAT_ID = -1004382561394
 
-PROTECTED_ADMINS = []
+PROTECTED_ADMINS = [7831629041]
 
 OTP_GROUP_LINK = "https://t.me/Top_otp_receive"
 
@@ -22,8 +22,8 @@ SMS_HADI_SIGNIN_URL = f"{SMS_HADI_BASE}/signin"
 SMS_HADI_STATS_URL  = f"{SMS_HADI_BASE}/agent/SMSCDRStats"
 SMS_HADI_AJAX_URL   = f"{SMS_HADI_BASE}/agent/res/data_smscdr.php"
 
-SMS_HADI_USERNAME = 'saikat2007'
-SMS_HADI_PASSWORD = 'saikat2007'
+SMS_HADI_USERNAME = ''
+SMS_HADI_PASSWORD = ''
 
 # ── Konekta Premium Panel ──────────────────────────────────────────────────────
 KONEKTA_BASE       = "https://konektapremium.net"
@@ -32,8 +32,8 @@ KONEKTA_SIGNIN_URL = f"{KONEKTA_BASE}/signin"
 KONEKTA_STATS_URL  = f"{KONEKTA_BASE}/client/SMSCDRStats"
 KONEKTA_AJAX_URL   = f"{KONEKTA_BASE}/client/res/data_smscdr.php"
 
-KONEKTA_USERNAME = 'MDSaikat'
-KONEKTA_PASSWORD = '@saikat2007'
+KONEKTA_USERNAME = ''
+KONEKTA_PASSWORD = ''
 
 # ── MSI SMS Panel ──────────────────────────────────────────────────────────────
 MSI_SMS_BASE       = "http://145.239.130.45/ints"
@@ -42,8 +42,8 @@ MSI_SMS_SIGNIN_URL = f"{MSI_SMS_BASE}/signin"
 MSI_SMS_STATS_URL  = f"{MSI_SMS_BASE}/agent/SMSCDRStats"
 MSI_SMS_AJAX_URL   = f"{MSI_SMS_BASE}/agent/res/data_smscdr.php"
 
-MSI_SMS_USERNAME = 'saikat'
-MSI_SMS_PASSWORD = '@saikat2007'
+MSI_SMS_USERNAME = ''
+MSI_SMS_PASSWORD = ''
 
 SMS_MONITOR_INTERVAL = 16
 
@@ -54,8 +54,8 @@ NUMBER_PANEL_SIGNIN_URL = f"{NUMBER_PANEL_BASE}/signin"
 NUMBER_PANEL_STATS_URL  = f"{NUMBER_PANEL_BASE}/client/SMSCDRStats"
 NUMBER_PANEL_AJAX_URL   = f"{NUMBER_PANEL_BASE}/client/res/data_smscdr.php"
 
-NUMBER_PANEL_USERNAME = 'forid579'
-NUMBER_PANEL_PASSWORD = '1ssaikatyt'
+NUMBER_PANEL_USERNAME = ''
+NUMBER_PANEL_PASSWORD = ''
 
 NUMBER_PANEL_INTERVAL = 16
 
@@ -66,24 +66,24 @@ PURPLE_SMS_SIGNIN_URL = "http://85.195.94.50/sms/signmein"
 PURPLE_SMS_STATS_URL  = "http://85.195.94.50/sms/dialer/SMSReports"
 PURPLE_SMS_AJAX_URL   = "http://85.195.94.50/sms/dialer/res/data_smscdr.php"
 
-PURPLE_SMS_USERNAME = 'sxunofficial'
-PURPLE_SMS_PASSWORD = 'sxunofficial'
+PURPLE_SMS_USERNAME = ''
+PURPLE_SMS_PASSWORD = ''
 
 # ── Proof SMS Panel ────────────────────────────────────────────────────────────
 PROOF_SMS_BASE       = "http://217.182.195.194/ints"
 PROOF_SMS_LOGIN_URL  = "http://217.182.195.194/ints/login"
 PROOF_SMS_SIGNIN_URL = "http://217.182.195.194/ints/signin"
 
-PROOF_SMS_USERNAME = 'saikatff143'
-PROOF_SMS_PASSWORD = 'saikatff143'
+PROOF_SMS_USERNAME = ''
+PROOF_SMS_PASSWORD = ''
 
 # ── Lamix SMS Panel ────────────────────────────────────────────────────────────
 LAMIX_SMS_BASE       = "http://51.210.208.26/ints"
 LAMIX_SMS_LOGIN_URL  = "http://51.210.208.26/ints/login"
 LAMIX_SMS_SIGNIN_URL = "http://51.210.208.26/ints/signin"
 
-LAMIX_SMS_USERNAME = 'saikatff143'
-LAMIX_SMS_PASSWORD = 'saikatff143'
+LAMIX_SMS_USERNAME = ''
+LAMIX_SMS_PASSWORD = ''
 
 # ── Seven 1 Tel Panel ──────────────────────────────────────────────────────────
 SEVEN1TEL_BASE       = "http://94.23.120.156/ints"
@@ -92,8 +92,8 @@ SEVEN1TEL_SIGNIN_URL = "http://94.23.120.156/ints/signin"
 SEVEN1TEL_STATS_URL  = "http://94.23.120.156/ints/agent/SMSCDRStats"
 SEVEN1TEL_AJAX_URL   = "http://94.23.120.156/ints/agent/res/data_smscdr.php"
 
-SEVEN1TEL_USERNAME = 'MDSaikat'
-SEVEN1TEL_PASSWORD = '1ssaikatyt'
+SEVEN1TEL_USERNAME = ''
+SEVEN1TEL_PASSWORD = ''
 
 SEVEN1TEL_INTERVAL = 16
 
@@ -104,8 +104,8 @@ MAIT_SMS_SIGNIN_URL = "http://168.119.13.175/ints/signin"
 MAIT_SMS_STATS_URL  = "http://168.119.13.175/ints/agent/SMSCDRStats"
 MAIT_SMS_AJAX_URL   = "http://168.119.13.175/ints/agent/res/data_smscdr.php"
 
-MAIT_SMS_USERNAME = 'saikatf143'
-MAIT_SMS_PASSWORD = 'Saikatf@12'
+MAIT_SMS_USERNAME = ''
+MAIT_SMS_PASSWORD = ''
 
 MAIT_SMS_INTERVAL = 16
 
@@ -116,8 +116,8 @@ ZENTO_SMS_SIGNIN_URL = f"{ZENTO_SMS_BASE}/signin"
 ZENTO_SMS_STATS_URL  = f"{ZENTO_SMS_BASE}/client/SMSCDRStats"
 ZENTO_SMS_AJAX_URL   = f"{ZENTO_SMS_BASE}/client/res/data_smscdr.php"
 
-ZENTO_SMS_USERNAME = 'saikatff143'
-ZENTO_SMS_PASSWORD = 'saikatff143'
+ZENTO_SMS_USERNAME = ''
+ZENTO_SMS_PASSWORD = ''
 
 ZENTO_SMS_INTERVAL = 16
 
@@ -128,8 +128,8 @@ WOLF_SMS_SIGNIN_URL = "http://213.32.24.208/ints/signin"
 WOLF_SMS_STATS_URL  = "http://213.32.24.208/ints/agent/SMSCDRStats"
 WOLF_SMS_AJAX_URL   = "http://213.32.24.208/ints/agent/res/data_smscdr.php"
 
-WOLF_SMS_USERNAME = 'saikatff143'
-WOLF_SMS_PASSWORD = 'saikatff143'
+WOLF_SMS_USERNAME = ''
+WOLF_SMS_PASSWORD = ''
 
 WOLF_SMS_INTERVAL = 16
 
@@ -140,8 +140,8 @@ SHARK_SMS_SIGNIN_URL = "http://65.109.111.158/ints/signin"
 SHARK_SMS_STATS_URL  = "http://65.109.111.158/ints/agent/SMSCDRStats"
 SHARK_SMS_AJAX_URL   = "http://65.109.111.158/ints/agent/res/data_smscdr.php"
 
-SHARK_SMS_USERNAME = 'saikatff143'
-SHARK_SMS_PASSWORD = 'saikatff143'
+SHARK_SMS_USERNAME = ''
+SHARK_SMS_PASSWORD = ''
 
 SHARK_SMS_INTERVAL = 16
 
@@ -152,8 +152,8 @@ SMS_HADI2_SIGNIN_URL = f"{SMS_HADI2_BASE}/signin"
 SMS_HADI2_STATS_URL  = f"{SMS_HADI2_BASE}/agent/SMSCDRStats"
 SMS_HADI2_AJAX_URL   = f"{SMS_HADI2_BASE}/agent/res/data_smscdr.php"
 
-SMS_HADI2_USERNAME = 'saikatff143'
-SMS_HADI2_PASSWORD = 'saikatff143'
+SMS_HADI2_USERNAME = ''
+SMS_HADI2_PASSWORD = ''
 
 # ── KM Carrier SMS Panel ───────────────────────────────────────────────────────
 KM_CARRIER_SMS_BASE       = "http://54.36.173.235/ints"
@@ -162,8 +162,8 @@ KM_CARRIER_SMS_SIGNIN_URL = f"{KM_CARRIER_SMS_BASE}/signin"
 KM_CARRIER_SMS_STATS_URL  = f"{KM_CARRIER_SMS_BASE}/agent/SMSCDRStats"
 KM_CARRIER_SMS_AJAX_URL   = f"{KM_CARRIER_SMS_BASE}/agent/res/data_smscdr.php"
 
-KM_CARRIER_SMS_USERNAME = 'saikatff143'
-KM_CARRIER_SMS_PASSWORD = '@saikat2007'
+KM_CARRIER_SMS_USERNAME = ''
+KM_CARRIER_SMS_PASSWORD = '@'
 
 KM_CARRIER_SMS_INTERVAL = 16
 
