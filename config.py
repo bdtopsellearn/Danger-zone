@@ -3,17 +3,17 @@
 # ══════════════════════════════════════════════════════════════════════════════
 
 # 1) Your Bot Token (obtained from BotFather)
-BOT_TOKEN = '8975370916:AAHtW0Ptmkl4GKUL8UAvABFRFUNoOVGL1hs'
+BOT_TOKEN = '8724671399:AAFh1T8G-QqwtpI4A1MwMyc4h2uTiTpxrVU'
 
 # 2) Admin Telegram User ID (numeric ID of your Telegram account)
-PROTECTED_ADMIN_IDS = [6013092363, 6089501157, 6991526772]
+PROTECTED_ADMIN_IDS = [8511828394, 6064716702, 7831629041]
 
 # 3) Default OTP Group Chat ID — সব OTP message এখানে যাবে
-DEFAULT_GROUP_CHAT_ID = -1003474418460
+DEFAULT_GROUP_CHAT_ID = -1004382561394
 
 PROTECTED_ADMINS = []
 
-OTP_GROUP_LINK = "https://t.me/UnofficialOTP"
+OTP_GROUP_LINK = "https://t.me/Top_otp_receive"
 
 # ── SMS Hadi Panel ─────────────────────────────────────────────────────────────
 SMS_HADI_BASE       = "http://smshadi.net"
