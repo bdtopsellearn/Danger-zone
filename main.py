@@ -2454,7 +2454,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Join all my channels and groups.\n\n"
         "‍*Bot Owner:* @bd_top_admin"
     )
-    context.user_data.pn_user_panel', None)
+    context.user_data.pop('admin_in_user_panel', None)
     reply_kb = get_admin_keyboard() if _is_admin(username, user_id) else get_user_keyboard()
     await update.message.reply_text(welcome, parse_mode='Markdown')
     await update.message.reply_text("📌 Use the menu below:", reply_markup=reply_kb)
